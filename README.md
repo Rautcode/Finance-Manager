@@ -21,7 +21,7 @@ To run the Finance Manager application, you need the following installed on your
 Installation
 ------------
 
-1.  Clone the repository: `git clone git@github.com:himaldahal/finance-manager.git`
+1.  Clone the repository: `git clone https://github.com/Rautcode/Finance-Manager.git`
 2.  Navigate into the project directory: `cd /finance-manager/`
 3.  Install the required packages: `pip install -r requirements.txt`
 4.  Create the database tables: `python manage.py migrate`
